@@ -8,8 +8,9 @@ export const Hero = () => {
           <h1 class="hero-title-center">LIVE YOUR <span class="highlight-text">BEST LIFE</span></h1>
           
           <div class="hero-image-wrapper">
-             <img src="my_pic.png" alt="Siddique Ahmed Alvi" class="hero-person-image" />
+             <img src="/my_pic.png" alt="Siddique Ahmed Alvi" class="hero-person-image" />
           </div>
+
 
 
           <div class="hero-actions-center">
